@@ -19,8 +19,8 @@ A RAG-based QA system where users upload PDF documents and ask questions in natu
 - LLM: Groq (llama-3.3-70b-versatile)
 - Embeddings: HuggingFace all-MiniLM-L6-v2
 - Vector DB: ChromaDB
-- Frontened: Streamlit
-- Framework: Langchain
+- Frontend: Streamlit
+- Framework: LangChain
 
 ## Setup
 - git clone https://github.com/Simu008/rag-doc-qa-system.git
@@ -31,7 +31,7 @@ A RAG-based QA system where users upload PDF documents and ask questions in natu
 GROQ_API_KEY=your_key_here
 
 ## Run
-Streamlit run ui/main.py
+streamlit run ui/main.py
 
 ## Project Structure
 - loader.py: document processing
