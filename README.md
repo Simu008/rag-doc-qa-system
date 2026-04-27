@@ -16,9 +16,9 @@ A RAG-based QA system where users upload PDF documents and ask questions in natu
 - Framework: Langchain
 
 ## Setup
-git clone https://github.com/Simu008/rag-doc-qa-system.git
-cd rag_system
-pip install -r requirements.txt
+- git clone https://github.com/Simu008/rag-doc-qa-system.git
+- cd rag_system
+- pip install -r requirements.txt
 
 ## Add your API key to .env
 GROQ_API_KEY=your_key_here
