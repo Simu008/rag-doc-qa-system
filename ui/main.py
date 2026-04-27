@@ -8,7 +8,7 @@ from app.vector_store import clear_and_add_documents
 from app.rag_pipeline import rag_pipeline
 
 st.set_page_config(page_title="RAG App")
-st.title("📄 Multi-Document RAG QA System")
+st.title("📄RAG Document QA System")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
