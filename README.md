@@ -4,8 +4,8 @@
 - https://rag-doc-app-system-cu5ndappdvv4zrtdkuqquyf.streamlit.app/
 
 ## Demo
-![App Screenshot](./Assets/Demo1.png)
-![App Screenshot](./Assets/Demo2.png)
+![App Screenshot](./Assests/Demo1.png)
+![App Screenshot](./Assests/Demo2.png)
 
 ## Overview
 A RAG-based QA system where users upload PDF documents and ask questions in natural language. Answers are generated with source citations showing which document and page the answer came from.
